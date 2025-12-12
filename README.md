@@ -1,5 +1,6 @@
 ## Hi there 👋 I am Ananya Ghosh
 🤔Tech enthusiast exploring ideas that shape the future.
+
 ⚡Passionate About AI/ML , Data Analytics ,Full Stack Development
 
 <!--
