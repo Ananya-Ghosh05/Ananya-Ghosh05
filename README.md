@@ -1,4 +1,12 @@
 ## Hi there 👋 I am Ananya Ghosh
+🤔Tech enthusiast exploring ideas that shape the future.
+git clone https://github.com/<Ananya-Ghosh05>/<Ananya-Ghosh05>.git
+cd <Ananya-Ghosh05>
+# edit README.md using any editor, then:
+git add README.md
+git commit -m "chore: add profile README"
+git push origin main
+
 
 <!--
 **Ananya-Ghosh05/Ananya-Ghosh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
